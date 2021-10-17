@@ -27,6 +27,31 @@ module.exports = {
   },
   plugins: [
     [
+      '@vuepress/pwa',
+      {
+        skipWaiting: true,
+      },
+    ],
+    [
+      '@vuepress/plugin-pwa-popup',
+      {
+        locales: {
+          '/': {
+            message: 'New content is available.',
+            buttonText: 'Refresh',
+          },
+          '/zh/': {
+            message: '发现新内容可用',
+            buttonText: '刷新',
+          },
+          '/zh-tw/': {
+            message: '有新內容可用',
+            buttonText: '重新整理',
+          },
+        },
+      },
+    ],
+    [
       '@vuepress/docsearch',
       {
         apiKey: '8732d493d581edbc05f7b1bd4075a2b8',
