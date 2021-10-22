@@ -10,9 +10,11 @@ This is a project mainly focused on archiving radio programs on [radiko.jp](http
 
 ## Installation
 
+Please read [ [Preparation](/preparation/) ] before proceeding.
+
 ### Windows
 
-Read [Windows Preparation](/docs/preparation/windows.md) . Then download `radigo.exe` from [release](https://github.com/yyoshiki41/radigo/releases/) and put it in your `$PATH` folder.
+Download `radigo.exe` from [release](https://github.com/yyoshiki41/radigo/releases/) and put it in your `$PATH` folder.
 
 ### Ubuntu
 

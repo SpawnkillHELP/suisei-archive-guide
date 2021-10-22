@@ -165,7 +165,7 @@ youtube-dl -f 303+251 "link"
 
 在 [issue#26330](https://github.com/ytdl-org/youtube-dl/issues/26330#issuecomment-803654248) 中，使用者 ehoogeveen-medweb 提供了利用 Node.js 腳本提取缺失 segement id 的方法。
 
-首先需要安裝 Node.js 環境 [ [Ubuntu](http://localhost:8081/preparation/#node-js) ] [ [Windows](http://localhost:8081/tools/kkr/#windows) ] 。
+首先需要安裝 Node.js 環境 [ [Ubuntu](/zh-tw/preparation/#node-js) ] [ [Windows](/zh-tw/tools/kkr/#windows) ] 。
 
 随後下載使用者提供的 `addMissingFragments.zip` 並放入工作路徑。
 

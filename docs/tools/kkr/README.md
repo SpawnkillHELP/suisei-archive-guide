@@ -12,6 +12,8 @@ Since `youtube-dl` doesn't perform well on live recording, I suggest using this 
 
 ## Installation
 
+Please read [ [Preparation](/preparation/) ] before proceeding.
+
 ### Windows
 
 Check [Node.js official site](https://nodejs.org/) and download the `LTS` version.
@@ -20,7 +22,7 @@ To check if installation is successful, type `npm version` to see if it returns 
 
 ### Ubuntu
 
-See [Preparations](/docs/preparation/ubuntu?id=nodejs) to install `npm` and `node.js` environment.
+See [Preparations](/preparation/#node-js) to install `npm` `ffmpeg` and `node.js` environment.
 
 Once done with installation, install by `npm`
 

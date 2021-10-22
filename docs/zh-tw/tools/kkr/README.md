@@ -12,6 +12,8 @@
 
 ## 安裝
 
+閱讀
+
 ### Windows
 
 打開 [Node.js 官方網站](https://nodejs.org/) 並下載 `LTS` 版本。
@@ -20,7 +22,7 @@
 
 ### Ubuntu
 
-閱讀 [Ubuntu 環境準備](/docs/preparation/ubuntu?id=nodejs) ，安裝 `npm` 以及 Node.js 。
+閱讀 [Ubuntu 環境準備](/zh-tw/preparation/#node-js) ，安裝 `npm` 以及 Node.js 。
 
 安裝成功後，輸入以下命令安裝 `kkr`
 

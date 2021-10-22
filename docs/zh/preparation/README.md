@@ -17,6 +17,12 @@ setx /M PATH "%PATH%;<本地路径>"
 ```
 将命令中的 `<本地路径>` 替换为诸如 `J:\Youtube Downloads` 或 `F:\Video Archive`，随后执行即可。
 
+### ffmpeg
+
+`ffmpeg` 是本指南中，几乎所有工具都会用到的基础依赖。请从 [官方推荐的源](https://www.gyan.dev/ffmpeg/builds/) 下载 Windows 版本。推荐下载 `Release Build` ，这一版本在足够提供需要功能的同时，不会引入太多的问题。
+
+下载完成后解压缩文件，将 `ffmpeg.exe` 放入你的 `$PATH` 文件夹，确保其他程序可以调用到。
+
 ### 其他相关依赖
 
 其他所需要的程序以及依赖包均会在相应的介绍页面中提到。多数从官方网站下载、安装即可。

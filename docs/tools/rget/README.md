@@ -13,6 +13,8 @@ Hibiki Radio Station streams encrypted .m3u8 so it cannot be downloaded in norma
 
 ## Installation
 
+Please read [ [Preparation](/preparation/) ] before proceeding.
+
 ### Windows
 
 Check [Ruby official site](https://rubyinstaller.org/) to download the installer and install it.

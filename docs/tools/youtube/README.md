@@ -23,9 +23,11 @@ Downloaded video and audio → Merged .mp4 file → Write metadata → Write thu
 
 ## Installation
 
+Please read [ [Preparation](/preparation/) ] before proceeding.
+
 ### Windows
 
-Read [Windows Preparation](/docs/preparation/windows.md). Then download `youtube-dl.exe` from [release](https://github.com/ytdl-org/youtube-dl/releases/) and put it in your `$PATH` folder.
+Download `yt-dlp` from [release](https://github.com/yt-dlp/yt-dlp/releases) and put it in your `$PATH` folder.
 
 ### Ubuntu / Linux
 
@@ -155,7 +157,7 @@ There is *the only* experimental workaround so far for `youtube-dl` .
 
 In [issue#26330](https://github.com/ytdl-org/youtube-dl/issues/26330#issuecomment-803654248) , ehoogeveen-medweb provided a very experimental way to solve the problem by adding the missing segement number with a script.
 
-You will need to install Node.js environment first [ [Ubuntu](http://localhost:8081/preparation/#node-js) ] [ [Windows](http://localhost:8081/tools/kkr/#windows) ].
+You will need to install Node.js environment first [ [Ubuntu](/preparation/#node-js) ] [ [Windows](/tools/kkr/#windows) ].
 
 Then download the provided `addMissingFragments.zip` and extract it in your working path.
 

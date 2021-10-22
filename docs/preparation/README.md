@@ -15,7 +15,15 @@ Run the Command Prompt ( or cmd ) as administrator. Then paste the following int
 ```powershell
 setx /M PATH "%PATH%;<REPLACE THIS WITH THE PATH TO YOUR DIRECTORY>"
 ```
-The `REPLACE THIS WITH THE PATH TO YOUR DIRECTORY` section should be the folder where your tools are in. Example cases would be `J:\Youtube Downloads` or `F:\Video Archive` .
+The `<REPLACE THIS WITH THE PATH TO YOUR DIRECTORY>` section should be the folder where your tools are in. Example cases would be `J:\Youtube Downloads` or `F:\Video Archive` .
+
+### ffmpeg
+
+`ffmpeg` is the very fundamental tool to process videos and audios, nearly every tool here would need `ffmpeg` . Please be sure you have installed it.
+
+For Windows, please download `ffmpeg` from [here](https://www.gyan.dev/ffmpeg/builds/), this is the source recommened by `ffmpeg` official site. I suggest download `release builds` for more stable experience.
+
+After download, extract the compressed file and put `ffmpeg.exe` into your `$PATH` folder.
 
 ### Environment
 

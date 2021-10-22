@@ -25,7 +25,7 @@
 
 ### Windows
 
-请阅读 [Windows 环境准备](/docs/preparation/windows.md) 章节，完成相关准备。随后从本章起始处的 Github 链接中下载 `.exe` 并放入 `$PATH` 文件夹。
+请阅读 [Windows 环境准备](/zh/preparation/) 章节，完成相关准备。随后从本章起始处的 Github 链接中下载 `.exe` 并放入 `$PATH` 文件夹。
 
 ### Ubuntu / Linux
 
@@ -165,7 +165,7 @@ youtube-dl -f 303+251 "link"
 
 在 [issue#26330](https://github.com/ytdl-org/youtube-dl/issues/26330#issuecomment-803654248) 中，用户 ehoogeveen-medweb 提供了利用 Node.js 脚本提取缺失 segement id 的方法。
 
-首先需要安装 Node.js 环境 [ [Ubuntu](http://localhost:8081/preparation/#node-js) ] [ [Windows](http://localhost:8081/tools/kkr/#windows) ] 。
+首先需要安装 Node.js 环境 [ [Ubuntu](/zh/preparation/#node-js) ] [ [Windows](/zh/tools/kkr/#windows) ] 。
 
 随后下载用户提供的 `addMissingFragments.zip` 并放入工作路径。
 

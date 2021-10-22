@@ -13,6 +13,8 @@ Hibiki Radio Station 采用了加密 .m3u8 对电台进行串流，因此无法�
 
 ## 安装
 
+请首先阅读 [环境准备](/zh/preparation/) 章节，完成相关准备。
+
 ### Windows
 
 打开 [Ruby 官方网站](https://rubyinstaller.org/) 下载安装包并安装。

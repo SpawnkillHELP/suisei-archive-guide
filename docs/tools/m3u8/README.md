@@ -9,6 +9,10 @@ There are a lot of sites that are not officially supported by youtube-dl / yt-dl
 - ...
 - etc.
 
+## Caution
+
+Before proceeding, please read [ [Preparation](/preparation/) ] and get [ [youtube-dl / yt-dlp](/tools/youtube/) ] working.
+
 ## Link Extraction
 
 ![step](./m3u8-0001.jpg)
