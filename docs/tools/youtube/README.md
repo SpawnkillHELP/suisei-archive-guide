@@ -121,7 +121,7 @@ youtube-dl -f 303+251 "link"
 
 The usage is basically the same but it will require some steps to extract the link.
 
-Link extraction will be introduced [HERE](/docs/download/m3u8.md)
+Link extraction will be introduced [HERE](/tools/m3u8/)
 
 ## Tips
 
