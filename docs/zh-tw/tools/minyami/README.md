@@ -11,6 +11,8 @@
 
 ## 安裝
 
+继续操作前，请閱讀 [環境準備](/zh-tw/preparation/) 章节。
+
 ### Windows
 
 打開 [Node.js 官方网站](https://nodejs.org/) 並下載 `LTS` 版本。

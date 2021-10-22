@@ -14,7 +14,7 @@
 
 ### Windows
 
-阅读 [Windows 环境准备](/docs/preparation/windows.md) 一节，并从[官方源](https://github.com/yyoshiki41/radigo/releases/)下载 `radigo.exe` 并把它放入 `$PATH` 文件夹。
+阅读 [Windows 环境准备](/zh/preparation/) 一节，并从[官方源](https://github.com/yyoshiki41/radigo/releases/)下载 `radigo.exe` 并把它放入 `$PATH` 文件夹。
 
 ### Ubuntu
 

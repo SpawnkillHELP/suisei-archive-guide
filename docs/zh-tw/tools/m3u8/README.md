@@ -9,6 +9,10 @@
 - ...
 - etc.
 
+## 注意
+
+继续操作前，请閱讀 [環境準備](/zh-tw/preparation/) 章节，并確認 `youtube-dl` 或 `yt-dlp` 可以正常工作。
+
 ## 獲取連結
 
 ![step](./m3u8-0001.jpg)

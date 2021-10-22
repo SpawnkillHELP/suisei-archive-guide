@@ -25,7 +25,7 @@
 
 ### Windows
 
-請閱讀 [Windows 環境準備](/docs/preparation/windows.md) 章節，完成相關準備。隨後從本章起始處的 Github 連結中下載 `.exe` 並放入 `$PATH` 資料夾。
+請閱讀 [Windows 環境準備](/zh/preparation/) 章節，完成相關準備。隨後從本章起始處的 Github 連結中下載 `.exe` 並放入 `$PATH` 資料夾。
 
 ### Ubuntu / Linux
 

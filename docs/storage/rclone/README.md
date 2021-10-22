@@ -17,7 +17,7 @@ rclone is nearly the best universal way to copy / sync the files among your loca
 
 ### Windows
 
-Read [Windows Preparation](/docs/preparation/windows.md). Then download `rclone.exe` from [Download Page](https://rclone.org/downloads/) and put it in your `$PATH` folder.
+Read [Windows Preparation](/preparation/). Then download `rclone.exe` from [Download Page](https://rclone.org/downloads/) and put it in your `$PATH` folder.
 
 ### Ubuntu
 

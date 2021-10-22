@@ -17,7 +17,7 @@ rclone 尽管配置复杂，但是本工具是目前最为通用的云端-本地
 
 ### Windows
 
-阅读 [Windows 环境准备](/docs/preparation/windows.md)，并从[官方源](https://rclone.org/downloads/)下载 `rclone.exe` 并放入 `$PATH` 文件夹。
+阅读 [Windows 环境准备](/zh/preparation/)，并从[官方源](https://rclone.org/downloads/)下载 `rclone.exe` 并放入 `$PATH` 文件夹。
 
 ### Ubuntu
 

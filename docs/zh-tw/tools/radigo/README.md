@@ -10,9 +10,11 @@
 
 ## 安裝
 
+继续操作前，请閱讀 [環境準備](/zh-tw/preparation/) 章节。
+
 ### Windows
 
-閱讀 [Windows 環境準備](/docs/preparation/windows.md) ，並從[官方源](https://github.com/yyoshiki41/radigo/releases/)下載 `radigo.exe` 並把它放入 `$PATH` 文件夾。
+閱讀 [Windows 環境準備](/zh-tw/preparation/) ，並從[官方源](https://github.com/yyoshiki41/radigo/releases/)下載 `radigo.exe` 並把它放入 `$PATH` 文件夾。
 
 ### Ubuntu
 

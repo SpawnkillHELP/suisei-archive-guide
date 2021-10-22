@@ -17,7 +17,7 @@ rclone 雖然配置稍微複雜，但是本工具是目前最為通用的雲端-
 
 ### Windows
 
-閱讀 [Windows 環境準備](/docs/preparation/windows.md)，並從[官方源](https://rclone.org/downloads/)下載 `rclone.exe` 並放入 `$PATH` 資料夾。
+閱讀 [Windows 環境準備](/zh-tw/preparation/)，並從[官方源](https://rclone.org/downloads/)下載 `rclone.exe` 並放入 `$PATH` 資料夾。
 
 ### Ubuntu
 

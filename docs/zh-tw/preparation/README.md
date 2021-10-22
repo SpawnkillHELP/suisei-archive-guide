@@ -17,6 +17,12 @@ setx /M PATH "%PATH%;<本機路徑>"
 ```
 將指令中的 `<本機路徑>` 替換為 `J:\Youtube Downloads` 或 `F:\Video Archive`，即可Enter執行。
 
+### ffmpeg
+
+`ffmpeg` 是非常重要的、用以處理影片及音訊的依賴，在進行後續操作前請確保已經正常安裝。官方推薦從 [此處](https://www.gyan.dev/ffmpeg/builds/) 下載 Windows 版本，建議下載 `Release Build` 。
+
+下載完成後解壓縮檔案，並將 `ffmpeg.exe` 放入 `$PATH` 路徑。
+
 ### 其他相關支援
 
 其他所需要的程序以及支援包均會在對應頁面提到，多數從官方網站下載安裝即可。
