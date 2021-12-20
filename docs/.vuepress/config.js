@@ -19,8 +19,6 @@ module.exports = {
       "data-domain": "guide.suisei.cc",
     }],
 
-    <script defer data-domain="guide.suisei.cc" src=""></script>
-
   ],
   markdown: {
     lineNumbers: false // 代码块显示行号
