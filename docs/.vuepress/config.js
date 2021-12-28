@@ -52,7 +52,8 @@ module.exports = {
     [
       '@vuepress/docsearch',
       {
-        apiKey: '8732d493d581edbc05f7b1bd4075a2b8',
+        appId: 'Q8GK3DN8N1',
+        apiKey: '1d70a264147212e0845d3f5c93d5b58e',
         indexName: 'suisei',
         locales: {
           '/': {
