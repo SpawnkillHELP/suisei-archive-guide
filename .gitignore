@@ -25,3 +25,11 @@ dist
 # Typescript build dist
 packages/@vuepress/shared-utils/lib/
 packages/@vuepress/shared-utils/types/
+
+.yarn/*
+!.yarn/cache
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/sdks
+!.yarn/versions
