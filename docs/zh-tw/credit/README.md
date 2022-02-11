@@ -26,7 +26,7 @@ sidebar: false
 
 [ [<i class="fab fa-twitter" /> Twitter](https://twitter.com/mikaze0322) ] [ [<i class="fab fa-youtube" /> YouTube](https://www.youtube.com/channel/UCrpkt3YHPdpciDy-96H_2mg) ]
 
-星詠者，翻譯，烤肉Man，繁體中文編撰
+星詠者，翻譯，烤肉 Man，繁體中文編撰
 
 ---
 
@@ -34,7 +34,7 @@ sidebar: false
 
 <img src="/Project_Stargazer.svg" alt="Suisei Project" width="185.25" height="28">
 
-本項目是 *Project Stargazer* 的一部分。
+本項目是 _Project Stargazer_ 的一部分。
 
 本家使用 [VuePress](https://v2.vuepress.vuejs.org/zh/) 搭建，托管於 [Vercel](https://vercel.com/) 上。
 

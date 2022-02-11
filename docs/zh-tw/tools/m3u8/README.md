@@ -25,7 +25,7 @@
 
 因為每個人的網路環境不同，默認串流品質不盡相同。為了確保可以獲取最高畫質，我們提取 main m3u8 index 以獲取所有串流品質選項。
 
-右鍵點擊<span style="color:#43a2e3; font-weight:bold">藍色</span>剪頭指向的條目，選擇複製 > 複製URL。
+右鍵點擊<span style="color:#43a2e3; font-weight:bold">藍色</span>剪頭指向的條目，選擇複製 > 複製 URL。
 
 ::: warning 建議
 

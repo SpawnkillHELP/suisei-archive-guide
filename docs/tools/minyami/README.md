@@ -41,7 +41,7 @@ Open a nicolive timeshift link and click the plugin to extract the command you w
 
 ![Plugin](./minyami-0001.jpg)
 
-Click *Copy* and paste it in your CLI to start download.
+Click _Copy_ and paste it in your CLI to start download.
 
 It also applies to AbemaTV.
 

@@ -26,7 +26,7 @@ If the default resolution isn't 1080p don't worry, keep the developer console op
 Right click the .m3u8 link (the <span style="color:#43a2e3; font-weight:bold">BLUE</span> arrow), and select Copy > Copy URL. **This is the URL to the actual video source, so make sure you write it down somewhere**
 
 ::: warning
-Make sure the actual extracted link looks like cam_v1_.m3u8, or it might not contain audio.
+Make sure the actual extracted link looks like cam*v1*.m3u8, or it might not contain audio.
 :::
 
 ## Grab cookies.txt

@@ -139,7 +139,7 @@ This is the same behavior you can see on YouTube apps, also applies to those cop
 
 `youtube-dl` has a [known and unsolved bug](https://github.com/ytdl-org/youtube-dl/issues/26330) mentioning it can only pull the last 2 hours right after the stream ends.
 
-*e.g.* The stream is 3 hours long and YouTube would split it into [ 1 hour + 2 hour ] in the backend. So pulling the stream right after it ends would only be able to pull the last 2 hours half.
+_e.g._ The stream is 3 hours long and YouTube would split it into [ 1 hour + 2 hour ] in the backend. So pulling the stream right after it ends would only be able to pull the last 2 hours half.
 
 Unfortunately `youtube-dl` still not have fixed the bug yet.
 
@@ -149,9 +149,9 @@ So for those preannounced no archive streams, I suggest start the record using [
 
 ::: danger Warning
 
-There is *the only* experimental workaround so far for `youtube-dl` .
+There is _the only_ experimental workaround so far for `youtube-dl` .
 
-*Use only when you have no other ways.*
+_Use only when you have no other ways._
 
 :::
 
@@ -179,4 +179,4 @@ Last download all segement using this command
 youtube-dl --load-info-json "video.info.json"
 ```
 
-This should at least grab a complete archive, but also as mentioned by mmis1000 this is not even technically a *workaround*. The script requires Node.js plus it might not being able to provide the highest quality of the archive for some reason. But since this is *the only* working method out there, I decided to write it here but use at your own risk.
+This should at least grab a complete archive, but also as mentioned by mmis1000 this is not even technically a _workaround_. The script requires Node.js plus it might not being able to provide the highest quality of the archive for some reason. But since this is _the only_ working method out there, I decided to write it here but use at your own risk.

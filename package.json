@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "dev": "vuepress dev docs",
-    "build": "vuepress build docs"
+    "build": "vuepress build docs",
+    "format": "prettier 'docs/**/*.js' 'docs/**/*.md' --write"
   },
   "keywords": [],
   "author": "",
@@ -15,6 +16,7 @@
     "@vuepress/plugin-pwa": "^2.0.0-beta.35",
     "@vuepress/plugin-pwa-popup": "^2.0.0-beta.35",
     "@vuepress/plugin-shiki": "^2.0.0-beta.35",
-    "vuepress": "^2.0.0-beta.35"
+    "vuepress": "^2.0.0-beta.35",
+    "prettier": "^2.5.1"
   }
 }

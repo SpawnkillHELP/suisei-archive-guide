@@ -34,7 +34,7 @@ Hoshiyomi, Translator, Clipper, Traditional Chinese Localization
 
 <img src="/Project_Stargazer.svg" alt="Suisei Project" width="185.25" height="28">
 
-This guide is part of *Project Stargazer*.
+This guide is part of _Project Stargazer_.
 
 Site built with [VuePress](https://v2.vuepress.vuejs.org/zh/), hosted on [Vercel](https://vercel.com/).
 

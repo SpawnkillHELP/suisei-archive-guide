@@ -25,7 +25,7 @@
 
 因为每个人所使用的网络环境不同，默认串流质量不尽相同。为了确保可以获取最高画质，我们提取 main m3u8 index 以获取所有串流质量选项。
 
-右键点击<span style="color:#43a2e3; font-weight:bold">蓝色</span>箭头指向的条目，选择复制 > 复制URL。
+右键点击<span style="color:#43a2e3; font-weight:bold">蓝色</span>箭头指向的条目，选择复制 > 复制 URL。
 
 ::: warning 建议
 

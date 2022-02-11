@@ -34,7 +34,7 @@ sidebar: false
 
 <img src="/Project_Stargazer.svg" alt="Suisei Project" width="185.25" height="28">
 
-本项目是 *Project Stargazer* 的一部分。
+本项目是 _Project Stargazer_ 的一部分。
 
 本家使用 [VuePress](https://v2.vuepress.vuejs.org/zh/) 搭建，托管于 [Vercel](https://vercel.com/) 上。
 

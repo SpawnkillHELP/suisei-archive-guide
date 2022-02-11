@@ -16,7 +16,7 @@ Windows 的準備並不困難，設定好`$PATH`即大致完成。
 setx /M PATH "%PATH%;<本機路徑>"
 ```
 
-將指令中的 `<本機路徑>` 替換為 `J:\Youtube Downloads` 或 `F:\Video Archive`，即可Enter執行。
+將指令中的 `<本機路徑>` 替換為 `J:\Youtube Downloads` 或 `F:\Video Archive`，即可 Enter 執行。
 
 ### ffmpeg
 
@@ -28,7 +28,7 @@ setx /M PATH "%PATH%;<本機路徑>"
 
 其他所需要的程序以及支援包均會在對應頁面提到，多數從官方網站下載安裝即可。
 
-本指南中的操作均在 CLI（命令列介面）中執行，儘管很多程序有 GUI（圖形使用者介面）版本，但由於眾多BUG因素，本指南並不推薦使用。
+本指南中的操作均在 CLI（命令列介面）中執行，儘管很多程序有 GUI（圖形使用者介面）版本，但由於眾多 BUG 因素，本指南並不推薦使用。
 
 ## Ubuntu
 
