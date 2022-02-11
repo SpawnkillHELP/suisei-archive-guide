@@ -17,7 +17,7 @@
 
 This is the archive guide for Suisei stream archiving.
 
-This is also part of *Project Stargazer*.
+This is also part of _Project Stargazer_.
 
 ## Support
 

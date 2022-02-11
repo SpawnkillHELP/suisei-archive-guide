@@ -7,7 +7,7 @@
   "scripts": {
     "dev": "vuepress dev docs",
     "build": "vuepress build docs",
-    "format": "prettier 'docs/**/*.js' 'docs/**/*.md' --write"
+    "format": "prettier '*.js' '*.json' '*.md' 'docs/.vuepress/config.js' 'docs/**/*.md' --write"
   },
   "devDependencies": {
     "@vuepress/plugin-docsearch": "^2.0.0-beta.35",
