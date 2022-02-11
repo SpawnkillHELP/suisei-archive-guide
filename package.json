@@ -1,16 +1,14 @@
 {
   "name": "suisei-archive-guide",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
+  "author": "aozaki-kuro <aozaki.kuro@gmail.com>",
+  "license": "MIT",
   "scripts": {
     "dev": "vuepress dev docs",
     "build": "vuepress build docs",
     "format": "prettier 'docs/**/*.js' 'docs/**/*.md' --write"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
   "devDependencies": {
     "@vuepress/plugin-docsearch": "^2.0.0-beta.35",
     "@vuepress/plugin-pwa": "^2.0.0-beta.35",
