@@ -12,7 +12,7 @@
 
 ## 支援
 
-如果本指南有帮助到您，请考虑在 [<i class="fas fa-coffee"></i> Ko-Fi.com](https://ko-fi.com/project_stargazer) 支援本项目。
+如果本指南有帮助到您，请考虑在 [<i class="fas fa-coffee" /> Ko-Fi.com](https://ko-fi.com/project_stargazer) 支援本项目。
 
 ## 更新记录
 
