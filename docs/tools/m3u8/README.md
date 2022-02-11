@@ -37,7 +37,7 @@ Make sure you have the `Get cookies.txt` extension installed on your browser and
 
 ## Download
 
-Now that you have the `.m3u8` link and the `cookies.txt`, we are ready to use `youtube-dl` to download the video. 
+Now that you have the `.m3u8` link and the `cookies.txt`, we are ready to use `youtube-dl` to download the video.
 
 Use this template to download the video. Replace the stuff in `""` with the appropriate content you got from earlier
 

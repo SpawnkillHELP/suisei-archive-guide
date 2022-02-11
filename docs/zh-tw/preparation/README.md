@@ -15,6 +15,7 @@ Windows 的準備並不困難，設定好`$PATH`即大致完成。
 ```powershell
 setx /M PATH "%PATH%;<本機路徑>"
 ```
+
 將指令中的 `<本機路徑>` 替換為 `J:\Youtube Downloads` 或 `F:\Video Archive`，即可Enter執行。
 
 ### ffmpeg

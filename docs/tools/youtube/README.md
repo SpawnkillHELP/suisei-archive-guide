@@ -38,7 +38,7 @@ sudo apt update && sudo upgrade -y
 sudo apt install python3 python3-pip python-is-python3 ffmpeg atomicparsley
 ```
 
-There are 2 ways to install 
+There are 2 ways to install
 
 - Install using `curl`
 
@@ -162,16 +162,19 @@ You will need to install Node.js environment first [ [Ubuntu](/preparation/#node
 Then download the provided `addMissingFragments.zip` and extract it in your working path.
 
 Run the command to extract the `video.info.json` first
+
 ```bash
 youtube-dl --output video --skip-download --write-info-json "youtube-url"
 ```
 
 Then execute the addMissingFragments.js to retrieve the missing data.
+
 ```bash
 node addMissingFragments "video.info.json"
 ```
 
 Last download all segement using this command
+
 ```bash
 youtube-dl --load-info-json "video.info.json"
 ```

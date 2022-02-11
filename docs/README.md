@@ -28,9 +28,11 @@ If you found the guide useful, please consider [support the project](https://ko-
 - Add multi language
 
 2021/09/14
+
 - Re-written and delopyed to Vercel
 
 2021/08/18
+
 - Added `Minyami` for niconico timeshift download
 - Changed the style some badges
 

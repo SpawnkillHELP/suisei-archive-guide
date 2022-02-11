@@ -15,6 +15,7 @@ Run the Command Prompt ( or cmd ) as administrator. Then paste the following int
 ```powershell
 setx /M PATH "%PATH%;<REPLACE THIS WITH THE PATH TO YOUR DIRECTORY>"
 ```
+
 The `<REPLACE THIS WITH THE PATH TO YOUR DIRECTORY>` section should be the folder where your tools are in. Example cases would be `J:\Youtube Downloads` or `F:\Video Archive` .
 
 ### ffmpeg

@@ -15,6 +15,7 @@ Windows 的准备并不复杂，设置好`$PATH`便完成了大半。
 ```powershell
 setx /M PATH "%PATH%;<本地路径>"
 ```
+
 将命令中的 `<本地路径>` 替换为诸如 `J:\Youtube Downloads` 或 `F:\Video Archive`，随后执行即可。
 
 ### ffmpeg

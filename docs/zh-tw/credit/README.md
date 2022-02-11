@@ -39,4 +39,3 @@ sidebar: false
 本家使用 [VuePress](https://v2.vuepress.vuejs.org/zh/) 搭建，托管於 [Vercel](https://vercel.com/) 上。
 
 搜尋系統為 [DocSearch](https://docsearch.algolia.com/) 提供。
-

@@ -4,7 +4,7 @@
 
 本工具主要用于 Niconico Timeshift （直播存档），以及 AbemaTV 影片的下载。
 
-## 适用站点 
+## 适用站点
 
 - Nico 直播 ( 仅直播部分 )
 - AbemaTV

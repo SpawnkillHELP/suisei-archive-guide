@@ -21,7 +21,7 @@ Hibiki Radio Station 采用了加密 .m3u8 对电台进行串流，因此无法�
 
 ### Ubuntu
 
-首先安装 `ruby-full` 
+首先安装 `ruby-full`
 
 ```bash
 sudo apt install ruby-full

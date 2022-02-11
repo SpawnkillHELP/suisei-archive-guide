@@ -170,16 +170,19 @@ youtube-dl -f 303+251 "link"
 随後下載使用者提供的 `addMissingFragments.zip` 並放入工作路徑。
 
 完成後執行如下指令獲取 `video.info.json`
+
 ```bash
 youtube-dl --output video --skip-download --write-info-json "youtube-url"
 ```
 
 執行 addMissingFragments.js 以修復缺失的 segement id
+
 ```bash
 node addMissingFragments "video.info.json"
 ```
 
 最後執行如下指令進行完整下載
+
 ```bash
 youtube-dl --load-info-json "video.info.json"
 ```
